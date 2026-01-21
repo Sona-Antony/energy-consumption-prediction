@@ -1,14 +1,14 @@
-\# ⚡ Energy Consumption Prediction
+\⚡ Energy Consumption Prediction
 
 
 
-\## 📌 Overview
+\📌 Overview
 
 Machine learning–based project for predicting energy consumption using a public UCI dataset. The notebook covers data preprocessing, model training, and performance comparison across multiple approaches.
 
 
 
-\## 📊 Dataset
+\ 📊 Dataset
 
 \- Source: UCI Machine Learning Repository (public dataset)
 
@@ -18,7 +18,7 @@ Machine learning–based project for predicting energy consumption using a publi
 
 
 
-\## ⚙️ Tech Stack
+\ ⚙️ Tech Stack
 
 \- Python
 
@@ -28,7 +28,7 @@ Machine learning–based project for predicting energy consumption using a publi
 
 
 
-\## 📈 Results
+\ 📈 Results
 
 \*\*Best Model:\*\* SVR  
 
@@ -49,6 +49,7 @@ Traditional ML models outperformed deep learning models on this dataset.
 
 
 ⭐ Feel free to star the repository if you find this useful
+
 
 
 
