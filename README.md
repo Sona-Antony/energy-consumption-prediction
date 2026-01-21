@@ -30,7 +30,7 @@ Machine learning–based project for predicting energy consumption using a publi
 
 📈 Results
 
-\*\*Best Model:\*\* SVR  
+Best Model: SVR  
 
 Achieved the lowest RMSE and highest R² among all tested models.
 
@@ -49,6 +49,7 @@ Traditional ML models outperformed deep learning models on this dataset.
 
 
 ⭐ Feel free to star the repository if you find this useful
+
 
 
 
